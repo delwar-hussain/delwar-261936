@@ -57,7 +57,7 @@ namespace WindowsFormsApp1
 
             displayRichTextBox.Text = ("Customer Name:  " +customerName +"\nContact Number:  " +contactNumber 
                                         +"\nAddress:  " +address + "\nOrder:  " +order
-                                        +"\nQuantity  " +quantity +"\nTotal  " +total);
+                                        +"\nQuantity  " +quantity +"\nTotal  TK" +total);
         }
     }
 }
