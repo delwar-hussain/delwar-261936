@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace Assignment_3_bitm_seip
 {
     partial class coffeeShop
     {
@@ -178,7 +178,6 @@
             this.Controls.Add(this.displayRichTextBox);
             this.Name = "coffeeShop";
             this.Text = "Coffee Shop";
-            this.Load += new System.EventHandler(this.coffeeShop_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
