@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A0493EDA-14EE-4764-80B2-4CE6E9E6C2B1}</ProjectGuid>
+    <ProjectGuid>{0EC0CACC-A7D1-47EF-93EC-D941ACD3B4CC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Day3</RootNamespace>
-    <AssemblyName>Day3</AssemblyName>
+    <RootNamespace>CoffeeShop</RootNamespace>
+    <AssemblyName>CoffeeShop</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

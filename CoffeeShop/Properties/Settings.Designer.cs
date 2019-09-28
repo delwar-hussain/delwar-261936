@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Day3.Properties
+namespace CoffeeShop.Properties
 {
 
 

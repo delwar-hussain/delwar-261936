@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{0BA27378-B236-4DBD-8CBE-80F07CB09C7E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeShop", "CoffeeShop.csproj", "{0EC0CACC-A7D1-47EF-93EC-D941ACD3B4CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0BA27378-B236-4DBD-8CBE-80F07CB09C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0BA27378-B236-4DBD-8CBE-80F07CB09C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0BA27378-B236-4DBD-8CBE-80F07CB09C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0BA27378-B236-4DBD-8CBE-80F07CB09C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC0CACC-A7D1-47EF-93EC-D941ACD3B4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC0CACC-A7D1-47EF-93EC-D941ACD3B4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC0CACC-A7D1-47EF-93EC-D941ACD3B4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC0CACC-A7D1-47EF-93EC-D941ACD3B4CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7DAE3505-2822-4760-932A-ABC66BFE1921}
+		SolutionGuid = {D05F8F25-395B-4EC3-B220-1165DC9410F8}
 	EndGlobalSection
 EndGlobal
