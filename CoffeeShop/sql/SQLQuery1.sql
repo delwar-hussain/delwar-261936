@@ -18,3 +18,5 @@ Quantity INT
 )
 
 DELETE FROM CustomerInfo WHERE ID = 2
+
+SELECT * FROM CustomerInfo WHERE ID =1
